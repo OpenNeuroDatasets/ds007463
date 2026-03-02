@@ -1,9 +1,10 @@
 {
-  "Name": "Very-High-Density Diffuse Optical Tomography System Validation Dataset",
-  "BIDSVersion": "",
-  "License": "PDDL",
-  "Authors": [
-    "Morgan Fogarty",
-    ""
-  ]
+    "Name": "Very-High-Density Diffuse Optical Tomography System Validation Dataset",
+    "BIDSVersion": "",
+    "License": "CC0",
+    "Authors": [
+        "Morgan Fogarty",
+        ""
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007463.v1.0.0"
 }
