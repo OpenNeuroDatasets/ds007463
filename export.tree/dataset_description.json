@@ -1,0 +1,24 @@
+{
+    "Name": "Very-High-Density Diffuse Optical Tomography System Validation Dataset",
+    "BIDSVersion": "",
+    "License": "CC0",
+    "Authors": [
+        "Morgan Fogarty",
+        "Sean M. Rafferty",
+        "Zachary E. Markow",
+        "Anthony C. O’Sullivan",
+        "Calamity F. Svoboda",
+        "Tessa George",
+        "Kelsey King",
+        "Dana Wilhelm",
+        "Kalyan Tripathy",
+        "Emily M. Mugler",
+        "Stephanie Naufel",
+        "Allen Yin",
+        "Jason W. Trobaugh",
+        "Adam T. Eggebrecht",
+        "Edward J. Richter",
+        "Joseph P. Culver"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007463.v1.1.1"
+}
