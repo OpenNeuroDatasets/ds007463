@@ -1,0 +1,153 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Morgan Fogarty
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 1
+      - name: Sean M. Rafferty
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Zachary E. Markow
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Anthony C. O’Sullivan
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+      - name: Calamity F. Svoboda
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
+      - name: Tessa George
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 6
+      - name: Kelsey King
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 7
+      - name: Dana Wilhelm
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 8
+      - name: Kalyan Tripathy
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 9
+      - name: Emily M. Mugler
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 10
+      - name: Stephanie Naufel
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 11
+      - name: Allen Yin
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 12
+      - name: Jason W. Trobaugh
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 13
+      - name: Adam T. Eggebrecht
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 14
+      - name: Edward J. Richter
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 15
+      - name: Joseph P. Culver
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 16
+    creators:
+      - name: Morgan Fogarty
+        nameType: Personal
+      - name: Sean M. Rafferty
+        nameType: Personal
+      - name: Zachary E. Markow
+        nameType: Personal
+      - name: Anthony C. O’Sullivan
+        nameType: Personal
+      - name: Calamity F. Svoboda
+        nameType: Personal
+      - name: Tessa George
+        nameType: Personal
+      - name: Kelsey King
+        nameType: Personal
+      - name: Dana Wilhelm
+        nameType: Personal
+      - name: Kalyan Tripathy
+        nameType: Personal
+      - name: Emily M. Mugler
+        nameType: Personal
+      - name: Stephanie Naufel
+        nameType: Personal
+      - name: Allen Yin
+        nameType: Personal
+      - name: Jason W. Trobaugh
+        nameType: Personal
+      - name: Adam T. Eggebrecht
+        nameType: Personal
+      - name: Edward J. Richter
+        nameType: Personal
+      - name: Joseph P. Culver
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract
