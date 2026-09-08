@@ -20,5 +20,6 @@
         "Edward J. Richter",
         "Joseph P. Culver"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds007463.v1.1.1"
+    "DatasetDOI": "doi:10.18112/openneuro.ds007463.v1.1.1",
+    "Acknowledgements": "The authors thank Emma Speh for her NeuroDOT expertise in troubleshooting new functions and Aahana Bajracharya and Wiete Fehner for their helpful discussions regarding the study. Finally, the authors sincerely thank all participants for generously dedicating their time to this research."
 }
